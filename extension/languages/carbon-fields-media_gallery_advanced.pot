@@ -1,0 +1,20 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"X-Generator: babel-plugin-makepot\n"
+
+#: src/main.js:137
+msgid "Upload / Select Images"
+msgstr ""
+
+#: src/main.js:144
+msgid "Add Gallery Images"
+msgstr ""
+
+#: src/main.js:213
+msgid "Upload Images"
+msgstr ""
+
+#: utils/fetch-attachments-data.js:24
+msgid "An error occurred while trying to fetch files data."
+msgstr ""

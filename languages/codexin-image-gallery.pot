@@ -1,0 +1,307 @@
+# Copyright (C) 2021 Photo gallery
+# This file is distributed under the same license as the Photo gallery package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Photo gallery\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: Codexins <support@codexin.com>\n"
+"Last-Translator: Codexins <info@codexin.com>\n"
+"Report-Msgid-Bugs-To: https://codexin.com/\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex:1,2c;_n:1,2;_n_noop:1,2;_nx:1,2,4c;_nx_noop:1,2,3c;_x:1,2c;esc_attr__;esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. translators: %s: PHP version
+#: codexin-image-gallery.php:109
+msgid "Photo Gallery by Codexin - Image Gallery requires PHP version %s+, plugin is currently NOT RUNNING."
+msgstr ""
+
+#. translators: %s: WordPress version
+#: codexin-image-gallery.php:125
+msgid "Photo Gallery by Codexin - Image Gallery requires WordPress version %s+. Because you are using an earlier version, the plugin is currently NOT RUNNING."
+msgstr ""
+
+#: lib/Admin/Custom_Post_Type.php:72, lib/Admin/Custom_Post_Type.php:73
+msgid "Photo gallery"
+msgstr ""
+
+#: lib/Admin/Custom_Post_Type.php:74, lib/Admin/Custom_Post_Type.php:76
+msgid "Add New Gallery"
+msgstr ""
+
+#: lib/Admin/Custom_Post_Type.php:75
+msgid "All Galleries"
+msgstr ""
+
+#: lib/Admin/Custom_Post_Type.php:77
+msgid "Edit Gallery"
+msgstr ""
+
+#: lib/Admin/Custom_Post_Type.php:78
+msgid "New Gallery"
+msgstr ""
+
+#: lib/Admin/Custom_Post_Type.php:79
+msgid "View Gallery"
+msgstr ""
+
+#: lib/Admin/Custom_Post_Type.php:80
+msgid "Search Gallery"
+msgstr ""
+
+#: lib/Admin/Custom_Post_Type.php:81
+msgid "No Gallery Found"
+msgstr ""
+
+#: lib/Admin/Custom_Post_Type.php:82
+msgid "No Gallery Found In Trash"
+msgstr ""
+
+#: lib/Admin/Custom_Post_Type.php:83
+msgid "Parent Gallery"
+msgstr ""
+
+#: lib/Admin/Metabox.php:79, lib/Admin/Metabox.php:481, lib/Admin/Metabox.php:495, lib/Admin/Metabox.php:509, lib/Admin/Metabox.php:523, lib/Admin/Metabox.php:537
+msgstr ""
+
+#: lib/Admin/Metabox.php:74
+msgid "Add Images"
+msgstr ""
+
+#: lib/Admin/Metabox.php:100
+msgid "Image hover settings "
+msgstr ""
+
+#: lib/Admin/Metabox.php:99
+msgid "Lightbox settings "
+msgstr ""
+
+#: lib/Admin/Metabox.php:98
+msgid "Border settings"
+msgstr ""
+
+#: lib/Admin/Metabox.php:97
+msgid "Layout settings"
+msgstr ""
+
+#: lib/Admin/Metabox.php:96
+msgid "Gallery styles"
+msgstr ""
+
+#: lib/Admin/Metabox.php:94
+msgid "Gallery Settings"
+msgstr ""
+
+#: lib/Admin/Metabox.php:116
+msgid "Select your gallery style"
+msgstr ""
+
+#: lib/Admin/Metabox.php:132
+msgid "Select number of columns in desktop (1025px or higher)"
+msgstr ""
+
+#: lib/Admin/Metabox.php:164
+msgid "Select number of columns in tablet (768px to 1024px)"
+msgstr ""
+
+#: lib/Admin/Metabox.php:188
+msgid "Select number of columns in mobile (767px or lower)"
+msgstr ""
+
+#: lib/Admin/Metabox.php:208
+msgid "Set image height for desktop (px)"
+msgstr ""
+
+#: lib/Admin/Metabox.php:222
+msgid "Set image height for tablet (px)"
+msgstr ""
+
+#: lib/Admin/Metabox.php:236
+msgid "Set image height for Mobile (px)"
+msgstr ""
+
+#: lib/Admin/Metabox.php:262
+msgid "Left"
+msgstr ""
+
+#: lib/Admin/Metabox.php:263
+msgid "Center"
+msgstr ""
+
+#: lib/Admin/Metabox.php:264
+msgid "Right"
+msgstr ""
+
+#: lib/Admin/Metabox.php:250
+msgid "Select image alignment for the last row"
+msgstr ""
+
+#: lib/Admin/Metabox.php:270
+msgid "Set row height (px)"
+msgstr ""
+
+#: lib/Admin/Metabox.php:297, lib/Admin/Metabox.php:362, lib/Admin/Metabox.php:381, lib/Admin/Metabox.php:421
+msgid "Yes"
+msgstr ""
+
+#: lib/Admin/Metabox.php:298, lib/Admin/Metabox.php:363, lib/Admin/Metabox.php:382, lib/Admin/Metabox.php:422
+msgid "No"
+msgstr ""
+
+#: lib/Admin/Metabox.php:285
+msgid "Justify the last row"
+msgstr ""
+
+#: lib/Admin/Metabox.php:305
+msgid "Set spacing between columns (px)"
+msgstr ""
+
+#: lib/Admin/Metabox.php:326, lib/Admin/Metabox.php:344
+msgid "Enable"
+msgstr ""
+
+#: lib/Admin/Metabox.php:327, lib/Admin/Metabox.php:345
+msgid "Disable"
+msgstr ""
+
+#: lib/Admin/Metabox.php:323
+msgid "Enable image lightbox?"
+msgstr ""
+
+#: lib/Admin/Metabox.php:332
+msgid "Enable share button?"
+msgstr ""
+
+#: lib/Admin/Metabox.php:350
+msgid "Show image captions in lightbox?"
+msgstr ""
+
+#: lib/Admin/Metabox.php:369
+msgid "Show image descriptions in lightbox?"
+msgstr ""
+
+#: lib/Admin/Metabox.php:411
+msgid "Effect 01"
+msgstr ""
+
+#: lib/Admin/Metabox.php:412
+msgid "Effect 02"
+msgstr ""
+
+#: lib/Admin/Metabox.php:413
+msgid "Effect 03"
+msgstr ""
+
+#: lib/Admin/Metabox.php:414
+msgid "Effect 04"
+msgstr ""
+
+#: lib/Admin/Metabox.php:415
+msgid "Effect 05"
+msgstr ""
+
+#: lib/Admin/Metabox.php:418
+msgid "Display image icon?"
+msgstr ""
+
+#: lib/Admin/Metabox.php:428
+msgid "Select hover icon"
+msgstr ""
+
+#: lib/Admin/Metabox.php:442
+msgid "Select icon color"
+msgstr ""
+
+#: lib/Admin/Metabox.php:457
+msgid "Image hover color"
+msgstr ""
+
+#: lib/Admin/Metabox.php:465
+msgid "Image hover effects"
+msgstr ""
+
+#: lib/Admin/Metabox.php:563
+msgid "Set border radius for each image (px)"
+msgstr ""
+
+#: lib/Admin/Metabox.php:568
+msgid "Set border size/width for each image (px)"
+msgstr ""
+
+#: lib/Admin/Metabox.php:576
+msgid "Solid"
+msgstr ""
+
+#: lib/Admin/Metabox.php:577
+msgid "Dotted"
+msgstr ""
+
+#: lib/Admin/Metabox.php:578
+msgid "Dashed"
+msgstr ""
+
+#: lib/Admin/Metabox.php:579
+msgid "Double"
+msgstr ""
+
+#: lib/Admin/Metabox.php:573
+msgid "Select border style for each image"
+msgstr ""
+
+#: lib/Admin/Metabox.php:585
+msgid "Select border color for each image"
+msgstr ""
+
+#: lib/Admin/Metabox.php:605, lib/Admin/Post_Column.php:63
+msgid "Shortcode"
+msgstr ""
+
+#: lib/Admin/Metabox.php:624
+msgid "Click to copy the shortcode"
+msgstr ""
+
+#: lib/Admin/Metabox.php:625
+msgid "Copy and paste this shortcode inside your WordPress Post, Pages and widgets."
+msgstr ""
+
+#: lib/Admin/Metabox.php:626
+msgid "Copy to clipboard"
+msgstr ""
+
+#. translators: %1$s: For using time
+#: lib/Admin/Notice.php:46
+msgid "Hi there! Stoked to see you're using Photo Gallery by Codexin - Image Gallery for %1$s days now - hope you like it! And if you do, please consider rating it. It would mean the world to us. keep on rocking!"
+msgstr ""
+
+#: lib/Admin/Notice.php:50
+msgid "Rate the plugin"
+msgstr ""
+
+#: lib/Admin/Notice.php:51
+msgid "Remind me later"
+msgstr ""
+
+#: lib/Admin/Notice.php:52
+msgid "Don't show again"
+msgstr ""
+
+#: lib/Admin/Notice.php:53
+msgid "I already did"
+msgstr ""
+
+#: lib/Admin/Post_Column.php:64
+msgid "Gallery Style"
+msgstr ""
+
+#: lib/Admin/Post_Column.php:65
+msgid "Date published"
+msgstr ""
+
+#: lib/Common/Helpers.php:46
+msgid "Image hover preview"
+msgstr ""
